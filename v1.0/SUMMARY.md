@@ -3,7 +3,7 @@
 
 ## Overview 
 
-* [Welcome to Talos documentation v 1.0 ](overview/welcome.md)
+* [Welcome to Talos documentation](overview/welcome.md)
 * [What is Talos](overview/what-is-talos.md)
 * [Talos Architectural Overview](overview/talos-architectural-overview.md)
 

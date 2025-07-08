@@ -1,4 +1,4 @@
-# Welcome to the Talos documentation v1.0. 
+# Welcome to the Talos documentation
 
 If you are just getting familiar with Talos, we recommend starting here:
 
