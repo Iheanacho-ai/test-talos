@@ -2,18 +2,18 @@
 
 * [Introduction](README.md)
 
-* [Overview]()
+* [Overview](getting-started/README.md)
   * [What is Talos](overview/what-is-talos.md)
   * [Talos Architectural Overview](overview/talos-architectural-overview.md)
 
-* [Getting Started]()
+* [Getting Started](getting-started/README.md)
   * [Quickstart](getting-started/quickstart.md)
   * [System Requirements](getting-started/system-requirements.md)
   * [Talosctl](getting-started/talosctl.md)
   * [Production Notes](getting-started/prodnotes.md)
   * [What is New](getting-started/what-is-new/index.md)
 
-* [Networking]()
+* [Networking](networking/README.md)
   * [Advanced Networking](networking/advanced-networking.md)
   * [Corporate Proxies](networking/corporate-proxies.md)
   * [Device Selector](networking/device-selector.md)
@@ -29,12 +29,12 @@
   * [VIP](networking/vip.md)
   * [WireGuard Networking](networking/wireguard-network.md)
 
-* [Platform-Specific Installation]()
+* [Platform-Specific Installation](platform-specific-install/README.md)
   * [Air-Gapped Environments](platform-specific-install/air-gapped.md)
   * [Boot Assets](platform-specific-install/boot-assets.md)
   * [Omni](platform-specific-install/omni.md)
 
-  * [Bare Metal Platforms]()
+  * [Bare Metal Platforms](platform-specific-install/bare-metal-platforms/README.md)
     * [Overview](platform-specific-install/bare-metal-platforms/README.md)
     * [Bootloader](platform-specific-install/bare-metal-platforms/bootloader.md)
     * [Equinix Metal](platform-specific-install/bare-metal-platforms/equinix-metal.md)
@@ -44,7 +44,7 @@
     * [PXE](platform-specific-install/bare-metal-platforms/pxe.md)
     * [SecureBoot](platform-specific-install/bare-metal-platforms/secureboot.md)
 
-  * [Cloud Platforms]()
+  * [Cloud Platforms](platform-specific-install/cloud-platforms/README.md)
     * [Overview](platform-specific-install/cloud-platforms/README.md)
     * [Akamai](platform-specific-install/cloud-platforms/akamai.md)
     * [AWS](platform-specific-install/cloud-platforms/aws.md)
@@ -68,7 +68,7 @@
     * [QEMU](platform-specific-install/local-platforms/qemu.md)
     * [VirtualBox](platform-specific-install/local-platforms/virtualbox.md)
 
-  * [Single Board Computers]()
+  * [Single Board Computers](platform-specific-install/single-board-computers/README.md)
     * [Overview](platform-specific-install/single-board-computers/README.md)
     * [Banana Pi M64](platform-specific-install/single-board-computers/bananapi_m64.md)
     * [Jetson Nano](platform-specific-install/single-board-computers/jetson_nano.md)
@@ -86,7 +86,7 @@
     * [Turing RK1](platform-specific-install/single-board-computers/turing_rk1.md)
     * [Unofficial Boards](platform-specific-install/single-board-computers/unofficial.md)
 
-  * [Virtualized Platforms]()
+  * [Virtualized Platforms](platform-specific-install/virtualized-platforms/README.md)
     * [Overview](platform-specific-install/virtualized-platforms/README.md)
     * [Hyper-V](platform-specific-install/virtualized-platforms/hyper-v.md)
     * [KVM](platform-specific-install/virtualized-platforms/kvm.md)
