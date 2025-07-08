@@ -1,19 +1,19 @@
-# Welcome v1.0
+# Welcome to the Talos documentation. 
 
-Welcome to the Talos documentation. If you are just getting familiar with Talos, we recommend starting here:
+If you are just getting familiar with Talos, we recommend starting here:
 
 - What is Talos: a quick description of Talos
 - Quickstart: the fastest way to get a Talos cluster up and running
 - Getting Started: a long-form, guided tour of getting a full Talos cluster deployed
 
-## Open Source
-- Community
-        - GitHub: repo
-        - Support: Questions, bugs, feature requests GitHub Discussions
-        - Community Slack: Join our slack channel
-        - Forum: community
-        - Twitter: @SideroLabs
-        - Email: info@SideroLabs.com
+## Community
+Stay in the loop with the community: 
+    - GitHub: repo
+    - Support: Questions, bugs, feature requests GitHub Discussions
+    - Community Slack: Join our slack channel
+    - Forum: community
+    - Twitter: @SideroLabs
+    - Email: info@SideroLabs.com
 
 If you’re interested in this project and would like to help in engineering efforts, or have general usage questions, we are happy to have you! We hold a weekly meeting that all audiences are welcome to attend.
 
