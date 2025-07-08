@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-* [Overview](getting-started/README.md)
+* [Overview](overview/README.md)
   * [What is Talos](overview/what-is-talos.md)
   * [Talos Architectural Overview](overview/talos-architectural-overview.md)
 
@@ -62,7 +62,7 @@
     * [UpCloud](platform-specific-install/cloud-platforms/upcloud.md)
     * [Vultr](platform-specific-install/cloud-platforms/vultr.md)
 
-  * [Local Platforms]()
+  * [Local Platforms](platform-specific-install/local-platforms/README.md)
     * [Overview](platform-specific-install/local-platforms/README.md)
     * [Docker](platform-specific-install/local-platforms/docker.md)
     * [QEMU](platform-specific-install/local-platforms/qemu.md)
