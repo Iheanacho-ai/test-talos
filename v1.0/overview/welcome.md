@@ -8,12 +8,13 @@ If you are just getting familiar with Talos, we recommend starting here:
 
 ## Community
 Stay in the loop with the community: 
-    - GitHub: repo
-    - Support: Questions, bugs, feature requests GitHub Discussions
-    - Community Slack: Join our slack channel
-    - Forum: community
-    - Twitter: @SideroLabs
-    - Email: info@SideroLabs.com
+
+    * GitHub: repo
+    * Support: Questions, bugs, feature requests GitHub Discussions
+    * Community Slack: Join our slack channel
+    * Forum: community
+    * Twitter: @SideroLabs
+    * Email: info@SideroLabs.com
 
 If you’re interested in this project and would like to help in engineering efforts, or have general usage questions, we are happy to have you! We hold a weekly meeting that all audiences are welcome to attend.
 
